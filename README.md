@@ -5,6 +5,8 @@ For my final project I was inspired by the film Before the Flood. Before the Flo
 
 
 
+
+
 #Week 11
 I'm having to I worked with some of the code from the openFrameworks examples folder to experiment with shaders. I was able to play around with the color, but I still needed to reference the notes from the examples to see if I could recreate some myself. 
 
