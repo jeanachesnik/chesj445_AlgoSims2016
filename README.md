@@ -8,6 +8,12 @@ chesj445_AlgoSims2016/oF Final.002.jpeg
 
 chesj445_AlgoSims2016/oF Final.003.jpeg
 
+
+<p align="center">
+  <img src="chesj445_AlgoSims2016/oF Final.002.jpeg" width="350"/>
+  <img src="your_relative_path_here_number_2_large_name" width="350"/>
+</p>
+
 (https://raw.githubusercontent.com/chesj445_AlgoSims2016/oFFinal.003.jpeg)
 
 
