@@ -4,6 +4,7 @@
 For my final project I was inspired by the film Before the Flood. Before the Flood is a documentary discussing the devastating effects of climate change. Towards the end of the movie there is a real time interactive map that displays various temperatures throughout the planet. This map is in constant flux with the increasing temperatures and displays colorful displays of heat and cool air throughout the world. 
 
 
+![Vector](https://upload.wikimedia.org/wikipedia/commons/5/57/Magnet0873.png)
 chesj445_AlgoSims2016/oF Final.002.jpeg
 
 chesj445_AlgoSims2016/oF Final.003.jpeg
