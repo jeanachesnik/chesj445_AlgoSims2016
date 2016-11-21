@@ -1,6 +1,9 @@
 # chesj445_AlgoSims2016
 
-Regina - I apologize for my file structure. I'm having to upload directly to the GitHub from my browser in order to share my homework. I think this is why for last week's homework there were some files missing. I have to upload each homework attempt individually instead of keeping them in the organized folder by each week. I'll try and fix this before class on Thrusday so it's easier for you to review the homework.
+##Week 12 
+For my final project I was inspired by the film Before the Flood. Before the Flood is a documentary discussing the devastating effects of climate change. Towards the end of the movie there is a real time interactive map that displays various temperatures throughout the planet. This map is in constant flux with the increasing temperatures and displays colorful displays of heat and cool air throughout the world. 
+
+
 
 #Week 11
 I'm having to I worked with some of the code from the openFrameworks examples folder to experiment with shaders. I was able to play around with the color, but I still needed to reference the notes from the examples to see if I could recreate some myself. 
