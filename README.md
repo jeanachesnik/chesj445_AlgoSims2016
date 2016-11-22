@@ -1,6 +1,6 @@
 # chesj445_AlgoSims2016
 
-##Week 12 
+#Final Assignment 2 
 For my final project I was inspired by the film Before the Flood. Before the Flood is a documentary discussing the devastating effects of climate change. Towards the end of the movie there is a real time interactive map that displays various temperatures throughout the planet. This map is in constant flux with the increasing temperatures and displays colorful displays of heat and cool air throughout the world. Instead of creating a map with real time data, I'd like to create how I view the map artistically. I'd like to experiment with the same color palaettes as the original map. If possible, I'd like to create an art piece that flows in the beginning very calmly but eventually dissaperates or melts off of the screen altogether. I want to create something that is beautiful but that also drives home my fear and concerns about climate change.  
 
 
