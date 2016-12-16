@@ -1,5 +1,12 @@
 # chesj445_AlgoSims2016
 
+##Final Project 
+(![Vector](https://github.com/jeanachesnik/chesj445_AlgoSims2016/blob/master/FinalImage1.png))
+
+(![Vector](https://github.com/jeanachesnik/chesj445_AlgoSims2016/blob/master/FinalImage2.png))
+
+
+
 ##Progress Update
 FML - I ran into some issues again with my Xcode and ended up troubleshooting for two hours and deleting and redownloading everything. I'm going to continue to experiment with different types of movement tomorrow and throughout the weekend. I really want to try and make something unique. Below are my notes from my Prototype10 example which is where I finalized today. Last week Protoype5 is what I showed in class so you can see where I was originally. I'll upload each prototype so you can see some of the errors that I ran into. See you next Thursday 
 
